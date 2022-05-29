@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://knowaboutaman.co/',
-  title: 'AKY.',
+  title: 'AK.',
 }
 
 const about = {
@@ -21,27 +21,27 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Know Your Plant',
     description:
-      'Soon..',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'It is Crossplatform app which is used to detect plant species and show its remedial use.',
+    stack: ['Flutter', 'TensorFlow Lite', 'Google Colab'],
+    sourceCode: 'https://github.com/gh-amanyadav/Know-your-plant',
+    livePreview: 'Soon...',
+  },
+  {
+    name: 'Portfolio Website',
+    description:
+      'It is my own portfolio website which you seeing right now.',
+    stack: ['ReactJs', 'firebase', 'JavaScript'],
     sourceCode: 'Soon...',
     livePreview: 'Soon...',
   },
   {
-    name: 'Project 2',
+    name: 'Apni Yyaari',
     description:
-      'Soon...',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'Soon...',
-    livePreview: 'Soon...',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Soon...',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'Soon...',
+      'It is a chating app which is build on flutter.',
+    stack: ['Flutter', 'Dart', 'Firebase'],
+    sourceCode: 'https://github.com/gh-amanyadav/portfolio',
     livePreview: 'Soon...',
   },
 ]
