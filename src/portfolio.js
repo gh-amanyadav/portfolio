@@ -9,7 +9,7 @@ const about = {
   name: 'Aman Kumar',
   role: 'App Developer and Front End Engineer',
   description:
-    'Multilingual, newly graduated App Developer offering expertise in Android and IOS. Innovative thinker with sound judgment and resourceful approach to problem-solving. Expert in App Development with training in Flutter and Android Native.',
+    'Multilingual, newly App Developer offering expertise in Android and IOS. Innovative thinker with sound judgment and resourceful approach to problem-solving. Expert in App Development with training in Flutter and Android Native.',
   resume: 'https://drive.google.com/file/d/1wwPhJfQ8uIO3sTinzfwo6ygY4oCHRsUr/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/in-amanyadav/',
@@ -18,15 +18,13 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: 'Know Your Plant',
     description:
       'It is Crossplatform app which is used to detect plant species and show its remedial use.',
     stack: ['Flutter', 'TensorFlow Lite', 'Google Colab'],
     sourceCode: 'https://github.com/gh-amanyadav/Know-your-plant',
-    livePreview: 'Soon...',
+    livePreview: 'https://youtube.com/shorts/jnSDR2cNto4?feature=share',
   },
   {
     name: 'Portfolio Website',
@@ -37,12 +35,12 @@ const projects = [
     livePreview: 'Soon...',
   },
   {
-    name: 'Apni Yyaari',
+    name: 'Apni Yaari',
     description:
-      'It is a chating app which is build on flutter.',
+      'It is a chating app which is build on flutter and Connected with Firebase.',
     stack: ['Flutter', 'Dart', 'Firebase'],
     sourceCode: 'https://github.com/gh-amanyadav/portfolio',
-    livePreview: 'Soon...',
+    livePreview: 'https://youtu.be/E0Zqp2BYUCE',
   },
 ]
 
