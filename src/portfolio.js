@@ -9,8 +9,8 @@ const about = {
   name: 'Aman Kumar',
   role: 'App Developer and Front End Engineer',
   description:
-    'Multilingual, newly App Developer offering expertise in Android and IOS. Innovative thinker with sound judgment and resourceful approach to problem-solving. Expert in App Development with training in Flutter and Android Native.',
-  resume: 'https://drive.google.com/file/d/1wwPhJfQ8uIO3sTinzfwo6ygY4oCHRsUr/view?usp=sharing',
+    'Passionate App Developer offering expertise in Android and IOS. Innovative thinker with sound judgment and resourceful approach to problem-solving. Expert in App Development with training in Flutter and Android Native.',
+  resume: 'https://drive.google.com/file/d/1cfbgMDOSj5xrGpXIKEv-i5s72rUpJYdZ/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/in-amanyadav/',
     github: 'https://github.com/gh-amanyadav/',
@@ -31,15 +31,15 @@ const projects = [
     description:
       'It is my own portfolio website which you seeing right now.',
     stack: ['ReactJs', 'firebase', 'JavaScript'],
-    sourceCode: 'Soon...',
-    livePreview: 'Soon...',
+    sourceCode: 'https://github.com/gh-amanyadav/portfolio',
+    livePreview: 'https://knowaboutaman.co/',
   },
   {
     name: 'Apni Yaari',
     description:
       'It is a chating app which is build on flutter and Connected with Firebase.',
     stack: ['Flutter', 'Dart', 'Firebase'],
-    sourceCode: 'https://github.com/gh-amanyadav/portfolio',
+    sourceCode: 'https://github.com/gh-amanyadav/Apni_Yaari',
     livePreview: 'https://youtu.be/E0Zqp2BYUCE',
   },
 ]
@@ -51,6 +51,7 @@ const skills = [
   'CSS',
   'JavaScript',
   'Flutter',
+  'Firebase',
   'React',
   'Dart',
   'C',
