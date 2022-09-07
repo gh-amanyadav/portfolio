@@ -10,7 +10,7 @@ const about = {
   role: 'App Developer and Front End Engineer',
   description:
     'Passionate App Developer offering expertise in Android and IOS. Innovative thinker with sound judgment and resourceful approach to problem-solving. Expert in App Development with training in Flutter and Android Native.',
-  resume: 'https://drive.google.com/file/d/1cfbgMDOSj5xrGpXIKEv-i5s72rUpJYdZ/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1gnCBa1EJHjGGSAf775-eQfS0X7IRlH4k/view?usp=sharinghttps://drive.google.com/file/d/1gnCBa1EJHjGGSAf775-eQfS0X7IRlH4k/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/in-amanyadav/',
     github: 'https://github.com/gh-amanyadav/',
